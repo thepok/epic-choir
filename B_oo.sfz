@@ -1,0 +1,41 @@
+// AgentSound vocalset-choir: B "oo" - real singers of VocalSet (CC BY 4.0, ATTRIBUTION.txt)
+<control>
+set_cc1=80
+<global>
+amp_veltrack=35
+ampeg_attack=0.004
+ampeg_release=0.55
+loop_mode=no_loop
+<group> xfout_locc1=40 xfout_hicc1=80
+<region> sample=samples/B/B_oo_p_As2.wav lokey=45 hikey=47 pitch_keycenter=46 offset=3528
+<region> sample=samples/B/B_oo_p_C3.wav lokey=48 hikey=49 pitch_keycenter=48 offset=3528
+<region> sample=samples/B/B_oo_p_D3.wav lokey=50 hikey=51 pitch_keycenter=50 offset=3528
+<region> sample=samples/B/B_oo_p_E3.wav lokey=52 hikey=53 pitch_keycenter=52 offset=3528
+<region> sample=samples/B/B_oo_p_Fs3.wav lokey=54 hikey=55 pitch_keycenter=54 offset=3528
+<region> sample=samples/B/B_oo_p_Gs3.wav lokey=56 hikey=57 pitch_keycenter=56 offset=3528
+<region> sample=samples/B/B_oo_p_As3.wav lokey=58 hikey=59 pitch_keycenter=58 offset=3528
+<region> sample=samples/B/B_oo_p_C4.wav lokey=60 hikey=61 pitch_keycenter=60 offset=3528
+<region> sample=samples/B/B_oo_p_D4.wav lokey=62 hikey=63 pitch_keycenter=62 offset=3528
+<region> sample=samples/B/B_oo_p_E4.wav lokey=64 hikey=65 pitch_keycenter=64 offset=3528
+<group> xfin_locc1=40 xfin_hicc1=80 xfout_locc1=85 xfout_hicc1=120
+<region> sample=samples/B/B_oo_mf_As2.wav lokey=45 hikey=47 pitch_keycenter=46 offset=3528
+<region> sample=samples/B/B_oo_mf_C3.wav lokey=48 hikey=49 pitch_keycenter=48 offset=3528
+<region> sample=samples/B/B_oo_mf_D3.wav lokey=50 hikey=51 pitch_keycenter=50 offset=3528
+<region> sample=samples/B/B_oo_mf_E3.wav lokey=52 hikey=53 pitch_keycenter=52 offset=3528
+<region> sample=samples/B/B_oo_mf_Fs3.wav lokey=54 hikey=55 pitch_keycenter=54 offset=3528
+<region> sample=samples/B/B_oo_mf_Gs3.wav lokey=56 hikey=57 pitch_keycenter=56 offset=3528
+<region> sample=samples/B/B_oo_mf_As3.wav lokey=58 hikey=59 pitch_keycenter=58 offset=3528
+<region> sample=samples/B/B_oo_mf_C4.wav lokey=60 hikey=61 pitch_keycenter=60 offset=3528
+<region> sample=samples/B/B_oo_mf_D4.wav lokey=62 hikey=63 pitch_keycenter=62 offset=3528
+<region> sample=samples/B/B_oo_mf_E4.wav lokey=64 hikey=65 pitch_keycenter=64 offset=3528
+<group> xfin_locc1=85 xfin_hicc1=120
+<region> sample=samples/B/B_oo_f_As2.wav lokey=45 hikey=47 pitch_keycenter=46 offset=3528
+<region> sample=samples/B/B_oo_f_C3.wav lokey=48 hikey=49 pitch_keycenter=48 offset=3528
+<region> sample=samples/B/B_oo_f_D3.wav lokey=50 hikey=51 pitch_keycenter=50 offset=3528
+<region> sample=samples/B/B_oo_f_E3.wav lokey=52 hikey=53 pitch_keycenter=52 offset=3528
+<region> sample=samples/B/B_oo_f_Fs3.wav lokey=54 hikey=55 pitch_keycenter=54 offset=3528
+<region> sample=samples/B/B_oo_f_Gs3.wav lokey=56 hikey=57 pitch_keycenter=56 offset=3528
+<region> sample=samples/B/B_oo_f_As3.wav lokey=58 hikey=59 pitch_keycenter=58 offset=3528
+<region> sample=samples/B/B_oo_f_C4.wav lokey=60 hikey=61 pitch_keycenter=60 offset=3528
+<region> sample=samples/B/B_oo_f_D4.wav lokey=62 hikey=63 pitch_keycenter=62 offset=3528
+<region> sample=samples/B/B_oo_f_E4.wav lokey=64 hikey=65 pitch_keycenter=64 offset=3528

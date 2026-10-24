@@ -17,8 +17,9 @@ Listen: [`demos/hymn.mp3`](demos/hymn.mp3) (a chorale, p → f → p) · [`demos
 | Samples | 600, one per whole tone (repitched by at most 1 semitone), 44.1 kHz 16-bit stereo, ~740 MB |
 | Singers per sample | 3–10 (median 9–10), each from its own recording, each on its own seat in a simulated hall |
 
-**Download the samples** from the [Releases](../../releases) page (`epic-choir-v1.0.zip`), unpack it next to
-the SFZ files (it contains the `samples/` folder), and load any `.sfz` in an SFZ player (e.g. sfizz, Sforzando,
+**Download the samples** from the [Releases](../../releases) page — one zip per part (`epic-choir-v1.0-S.zip`,
+`-A`, `-T`, `-B`, ~165 MB each, each with its SFZ files) — unpack them all into one folder (they share the
+`samples/` tree), and load any `.sfz` in an SFZ player (e.g. sfizz, Sforzando,
 TX16Wx, Decent Sampler via conversion).
 
 Tips: the takes are close-miked recordings in a simulated room — a gentle treble cut (≈ −2 dB above 6 kHz) and a

@@ -1,4 +1,4 @@
-# vocalset-choir
+# epic-choir
 
 A free SATB **vowel choir** sample library (SFZ + WAV) made from **real singers**: the 20 voices of the
 [VocalSet](https://doi.org/10.5281/zenodo.1442513) dataset, 3–10 different singers summed into every sample, so it
@@ -17,7 +17,7 @@ Listen: [`demos/hymn.mp3`](demos/hymn.mp3) (a chorale, p → f → p) · [`demos
 | Samples | 600, one per whole tone (repitched by at most 1 semitone), 44.1 kHz 16-bit stereo, ~740 MB |
 | Singers per sample | 3–10 (median 9–10), each from its own recording, each on its own seat in a simulated hall |
 
-**Download the samples** from the [Releases](../../releases) page (`vocalset-choir-v1.0.zip`), unpack it next to
+**Download the samples** from the [Releases](../../releases) page (`epic-choir-v1.0.zip`), unpack it next to
 the SFZ files (it contains the `samples/` folder), and load any `.sfz` in an SFZ player (e.g. sfizz, Sforzando,
 TX16Wx, Decent Sampler via conversion).
 
@@ -40,7 +40,7 @@ The samples are a derived work of VocalSet, licensed under
 credit, in music or products made with it:
 
 > Choir samples derived from VocalSet (Wilkins, Seetharaman, Wahl, Pardo 2018), CC BY 4.0,
-> https://doi.org/10.5281/zenodo.1442513 — vocalset-choir by thepok
+> https://doi.org/10.5281/zenodo.1442513 — epic-choir by thepok
 
 Original dataset: Wilkins, J., Prem Seetharaman, Alison Wahl, & Bryan Pardo. (2018). *VocalSet: A Singing Voice
 Dataset* (Version 1.2) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.1442513 — paper: ISMIR 2018, Paris.
